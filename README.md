@@ -27,5 +27,5 @@ The given below projects are completed which is there in learning module.
 
 # 6. Forage-App:
 
-![image](https://user-images.githubusercontent.com/90563881/187430253-b407e1b8-2ad2-4c94-8475-82f0131a7f6f.png)
+![image](https://user-images.githubusercontent.com/90563881/187432268-05967651-2ac2-4ce5-a88c-b18ef12c0cee.png)
 
